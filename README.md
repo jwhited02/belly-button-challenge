@@ -6,6 +6,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 #
 This challenge was pretty fun to complete and made me feel a lot more comfortable with the skills we learned in this Module. I was able to complete it by just going off of our solved class activities, as well as just some troubleshooting on my own. Overall I am very happy with how it turned out and I hope you are too. 
 #
+The code for the dashboard, and the index can be found in the "App" folder, and the data can be found in the "Resources" folder.
+#
 Thank you for taking the time to grade my assignment!
 #
 Name: Jackson Whited
